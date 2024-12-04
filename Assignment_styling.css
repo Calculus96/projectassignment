@@ -1,0 +1,232 @@
+.mainbody{
+    width: 1440px;
+    border: 4px solid purple;
+}
+.Mainframe{ 
+    border: 1px black;
+    border-style: solid;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 6px;
+}
+.topbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.topbarimg{
+    height: 40px;
+    padding-left: 18px;
+}
+.imgaddc{
+    padding-left: 45px;
+}
+.secureworld{
+    height: 70px;
+}
+.left{
+    display: flex;
+    align-items: center;
+    gap: 180px;
+}
+.sdw{
+    display: flex;
+    align-items: center;
+}
+.sbwriteup{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial;
+}
+.Securing{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial;
+}
+.leftmenu{
+    height: 667px;
+    width: 290px;
+    border: 2px solid blue;
+    margin-left: 96px;
+    border-radius: 4px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.innerblock{
+    margin: top 20px;
+    height: 617px;
+    width: 283px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.toplogo{
+    height: 81px;
+    width: 100%;
+    display: flex;
+    flex: auto;
+   justify-content: center;
+}
+.firstlogo{
+    height: 65px;
+    width: 60px;
+    margin: auto;
+    padding-left: 30px;
+}
+.arvind{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial;
+}
+.jobblock3{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    height: 30px;
+    line-height: 0%;
+}
+.jobblock2{
+    height: 123px;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.menuimg{
+    height: 24px;
+}
+.word1{
+    padding-left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+.jobword{
+    padding-top: 4px;
+    padding-left: 40px;
+    font-size: 19px;
+    line-height: 4px;
+    font-weight: 400;
+    font-family: 'Times New Roman';
+    color: black;
+}
+.candidateblock3{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    height: 30px;
+    line-height: 0px;
+}
+.candidateblock4{
+    width: 193px;
+}
+.candidateblock2{
+    height: 123px;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.candimg{
+    height: 24px;
+}
+.candidate1{
+    padding-left: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+}
+.candidateword{
+    padding-top: 4px;
+    padding-left: 40px;
+    font-size: 19px;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 400;
+    font-family: 'Times New Roman';
+    color: black;
+}
+.candidateword1{
+    color: skyblue;
+    padding-top: 1px;
+    padding-left: 40px;
+    font-size: 19px;
+    font-weight: 400;
+    font-family: 'Times New Roman';
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+.candidateword2{
+    margin: 0px;
+    padding-top: 1px;
+    padding-left: 40px;
+    font-size: 19px;
+    font-weight: 400;
+    font-family: 'Times New Roman';
+    color: skyblue;
+}
+.breakcandidate{
+    line-height: 1px;
+}
+.candidateword3{ 
+    padding-top: 1px;
+    padding-left: 40px;
+    font-size: 19px;
+    font-weight: 400;
+    font-family: 'Times New Roman';
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.candidateword4{
+    margin: 0px;
+    padding-top: 0px;
+    padding-left: 40px;
+}
+.breakcandidat2{
+    line-height: 1px;
+}
+.lastimg{
+    height: 24px;
+}
+.lastblock{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    height: 30px;
+    line-height: 5px;
+}
+.lastmainblock{
+    height: 161px;
+    padding-left: 40px;
+    padding-top: 130px;
+    line-height: 10px;
+}
+.write{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    color: black;
+    padding-left: 10px;
+}
+.right{
+    height: 566px;
+    width: 285px;
+    border: 2px solid green;
+    background-color: aquamarine;
+    margin-right: 15px;
+    border: 2px solid gold;
+}
+.bothmenu{
+   margin: 5px;
+   padding: 2px 2px;
+   align-items: flex-start;
+   display: flex;
+   justify-content: space-between;
+   margin-top: 80px;
+}
