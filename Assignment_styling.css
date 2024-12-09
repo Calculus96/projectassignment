@@ -1,6 +1,7 @@
 .mainbody{
     width: 1440px;
     border: 4px solid purple;
+    height: 1865px;
 }
 .Mainframe{ 
     border: 1px black;
@@ -55,6 +56,7 @@
     height: 667px;
     width: 290px;
     border: 2px solid blue;
+    background-color: #F2F2F2;
     margin-left: 96px;
     border-radius: 4px;
     vertical-align: middle;
@@ -223,13 +225,86 @@
     border: 2px solid green;
     background-color: aquamarine;
     margin-right: 15px;
-    border: 2px solid gold;
+    border: 2px solid blue;
+    background-color: #F2F2F2;
 }
 .bothmenu{
    margin: 5px;
    padding: 2px 2px;
    align-items: flex-start;
    display: flex;
-   justify-content: space-between;
+   justify-content: space-evenly;
    margin-top: 80px;
+}
+.middleframe{
+    border: 3px solid skyblue;
+    background-color: #EDF9FF;
+    height: 1200px;
+    width: 634px;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 360px;
+}
+.insidebox{
+    height: 116px;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.insideboxltb{
+    width: 373.62px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.insideboximg{
+    height: 40px;
+    width: 47px;
+    padding: 0px;
+    margin: 0px;
+}
+.insideboxlbb{
+    width: 209.13px;
+    height: 56px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 62.27px;
+}
+.insideboxwriteup{
+    margin: 0px;
+    padding: 0px;
+}
+.insideboxannounce{
+    margin-left:15px;
+}
+.insideboxtitle{
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+    margin-left: 5px;
+}
+.insideboxwriteup{
+    font-size: 17px;
+}
+.insideboxmrb{
+    height: 109px;
+    width: 164.56px;
+}
+.insideboxrb{
+    border: 1px solid darkcyan;
+    width: 151px;
+    height: 30px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.ww{
+    font-size: 18px;
+    font-weight: 800;
+    font-family: 'Times New Roman';
 }
