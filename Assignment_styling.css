@@ -1,7 +1,6 @@
 .mainbody{
     width: 1440px;
-    border: 4px solid purple;
-    height: 1865px;
+    height: 1900px;
 }
 .Mainframe{ 
     border: 1px black;
@@ -55,7 +54,6 @@
 .leftmenu{
     height: 667px;
     width: 290px;
-    border: 2px solid blue;
     background-color: #F2F2F2;
     margin-left: 96px;
     border-radius: 4px;
@@ -222,10 +220,8 @@
 .right{
     height: 566px;
     width: 285px;
-    border: 2px solid green;
     background-color: aquamarine;
     margin-right: 15px;
-    border: 2px solid blue;
     background-color: #F2F2F2;
 }
 .bothmenu{
@@ -237,13 +233,12 @@
    margin-top: 80px;
 }
 .middleframe{
-    border: 3px solid skyblue;
     background-color: #EDF9FF;
-    height: 1200px;
+    height: 1320px;
     width: 634px;
     margin: 0px;
     padding: 0px;
-    margin-top: 360px;
+    margin-top: 15px;
 }
 .insidebox{
     height: 116px;
@@ -251,6 +246,8 @@
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 .insideboxltb{
     width: 373.62px;
@@ -307,4 +304,92 @@
     font-size: 18px;
     font-weight: 800;
     font-family: 'Times New Roman';
+}
+.uppermiddle{
+    height: 300px;
+    width: 640px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.twomiddle{
+    height: 1600px;
+    padding: 0px;
+    margin: 0px;
+}
+.firstjobsearchfilter{
+    font-size: 28px;
+    font-weight: bolder;
+    font-family: 'Times New Roman';
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.firstjobsearch{
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: 'Times New Roman';
+    padding: 0px;
+    margin: 0px;
+}
+.firstjobfilter{
+    font-size: 28px;
+    font-weight: bolder;
+    font-family: 'Times New Roman';
+    padding: 0px;
+    margin: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.upmfirstdiv{
+    width: 100%;
+    height: 68px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.upmuiux{
+    border: 1px solid purple;
+    width: 100%;
+    height: 37px;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.sreachimg{
+    padding: 0px;
+    margin: 0px;
+    height: 20px;
+    width: 20px;
+    padding-right: 10px;
+}
+.upmseconddiv{
+
+    height: 36px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.seconddiv{
+    background-color: darkblue;
+    height: 34px;
+    width: 150px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.seconddivwrite{
+    font-size: 16px;
+    color: white;
+    font-family: 'Times New Roman';   
+}
+.upmlastwriteup{
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
 }
